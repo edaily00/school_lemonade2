@@ -1,8 +1,8 @@
 import unittest
-from lemonade import LemonadeStand
-from lemonade import MenuItem
-from lemonade import SalesForDay
-from lemonade import InvalidSalesItemError
+from LemonadeStand import LemonadeStand
+from LemonadeStand import MenuItem
+from LemonadeStand import SalesForDay
+from LemonadeStand import InvalidSalesItemError
 
 
 class TestLemonadeStand(unittest.TestCase):
